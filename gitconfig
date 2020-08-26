@@ -49,3 +49,5 @@
 [user]
 	email = martino.fabbro@gmail.com
 	name = Martino Olmo Fabbro
+[credential]
+	helper = cache

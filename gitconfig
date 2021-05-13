@@ -48,6 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = martino.fabbro@gmail.com
-	name = Martino Olmo Fabbro
+	name = Martino Fabbro
 [credential]
 	helper = cache
